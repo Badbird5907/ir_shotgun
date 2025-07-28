@@ -10,6 +10,8 @@ However, I realized it's really jank and instead decided to switch it out for a 
 ![image](https://cdn.badbird.dev/screenshots/2025/07/KPPCeMie5l.png)
 
 # July 27
-Time spent: 2h
+Time spent: 3h
 
 I tweaked the design, sourced parts on digikey, and worked on the bom.
+Also cadded a case:
+![img](https://cdn.badbird.dev/screenshots/2025/07/LAjFZXtXac.png)
